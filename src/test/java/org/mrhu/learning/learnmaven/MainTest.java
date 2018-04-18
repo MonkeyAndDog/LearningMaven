@@ -10,6 +10,6 @@ public class MainTest {
     public void getInteger() {
         Main main = new Main();
         int result = main.getInteger();
-        assertEquals(result, 1);
+        assertEquals(result, 2);
     }
 }
