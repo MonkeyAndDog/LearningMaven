@@ -13,6 +13,6 @@ public class UserTest {
 
     @Test
     public void setName() {
-	System.out.println("SetName");
+	    System.out.println("SetName");
     }
 }
