@@ -6,6 +6,6 @@ public class Main {
     }
 
     public int getInteger() {
-        return 2;
+        return 1;
     }
 }
