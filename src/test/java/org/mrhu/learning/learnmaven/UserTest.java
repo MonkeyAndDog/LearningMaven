@@ -14,6 +14,5 @@ public class UserTest {
     @Test
     public void setName() {
 	    System.out.println("SetName");
-	    getName();
     }
 }
